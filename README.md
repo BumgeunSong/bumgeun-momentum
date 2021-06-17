@@ -19,5 +19,5 @@ Bumgeun's Momentum (Momentum Clone Project)
 ## Quote
 새로고침할 때마다 랜덤 인용구 불러옴.
 
-## Weatehr
+## Weather
 날씨 API를 이용해 현재 사용자 위치와 날씨 보여줌.
